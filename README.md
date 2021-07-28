@@ -1,2 +1,365 @@
-# Canales-HD
-High Definition
+#EXTM3U
+
+#EXTINF:-1,|ESP| #VAMOS BAR
+
+http://149.62.177.149:1980/play/a09i
+
+#EXTINF:-1,|ESP| #VAMOSHD
+
+http://149.62.177.149:1980/play/a02h
+
+#EXTINF:-1,|ESP| AMC
+
+http://149.62.177.149:1980/play/a03z
+
+#EXTINF:-1,|ESP| AXN FHD
+
+http://149.62.177.149:1980/play/a01d
+
+#EXTINF:-1,|ESP| BARCA TV
+
+http://149.62.177.149:1980/play/a01o
+
+#EXTINF:-1,|ESP| BE MAD
+
+http://149.62.177.149:1980/play/a01v
+
+#EXTINF:-1,|ESP| BOING
+
+http://149.62.177.149:1980/play/a01m
+
+#EXTINF:-1,|ESP| BabyTV
+
+http://149.62.177.149:1980/play/a01k
+
+#EXTINF:-1,|ESP| CALLE 13
+
+http://149.62.177.149:1980/play/a02t
+
+#EXTINF:-1,|ESP| CALLE 13 FHD
+
+http://149.62.177.149:1980/play/a032
+
+#EXTINF:-1,|ESP| CANAL COCINA
+
+http://149.62.177.149:1980/play/a03y
+
+#EXTINF:-1,|ESP| CANAL DECASA
+
+http://149.62.177.149:1980/play/a02w
+
+#EXTINF:-1,|ESP| CANAL ODISEA
+
+http://149.62.177.149:1980/play/a02n
+
+#EXTINF:-1,|ESP| CANAL PANDA
+
+http://149.62.177.149:1980/play/a03q
+
+#EXTINF:-1,|ESP| CLAN TVE
+
+http://149.62.177.149:1980/play/a03n
+
+#EXTINF:-1,|ESP| COMEDY CENTRAL
+
+http://149.62.177.149:1980/play/a03t
+
+#EXTINF:-1,|ESP| CUATRO
+
+http://149.62.177.149:1980/play/a02u
+
+#EXTINF:-1,|ESP| DAZN 1
+
+http://149.62.177.149:1980/play/a02b
+
+#EXTINF:-1,|ESP| DAZN 1 FHD
+
+http://149.62.177.149:1980/play/a01c
+
+#EXTINF:-1,|ESP| DAZN 2 FHD
+
+http://149.62.177.149:1980/play/a01g
+
+#EXTINF:-1,|ESP| DAZN 3
+
+http://149.62.177.149:1980/play/a03a
+
+#EXTINF:-1,|ESP| DAZN 4
+
+http://149.62.177.149:1980/play/a03c
+
+#EXTINF:-1,|ESP| DAZN F1
+
+http://149.62.177.149:1980/play/a01s
+
+#EXTINF:-1,|ESP| DISNEY CH.
+
+http://149.62.177.149:1980/play/a03p
+
+#EXTINF:-1,|ESP| DIVINITY
+
+http://149.62.177.149:1980/play/a01i
+
+#EXTINF:-1,|ESP| DreamWorks
+
+http://149.62.177.149:1980/play/a03i
+
+#EXTINF:-1,|ESP| DreamWorks FHD
+
+http://149.62.177.149:1980/play/a02k
+
+#EXTINF:-1,|ESP| ENERGY
+
+http://149.62.177.149:1980/play/a01n
+
+#EXTINF:-1,|ESP| EUROSPORT 1
+
+http://149.62.177.149:1980/play/a01p
+
+#EXTINF:-1,|ESP| EUROSPORT 2
+
+http://149.62.177.149:1980/play/a01u
+
+#EXTINF:-1,|ESP| EUROSPORT1 FHD
+
+http://149.62.177.149:1980/play/a034
+
+#EXTINF:-1,|ESP| FDF
+
+http://149.62.177.149:1980/play/a038
+
+#EXTINF:-1,|ESP| FOX FHD
+
+http://149.62.177.149:1980/play/a02e
+
+#EXTINF:-1,|ESP| FOX NEWS
+
+http://149.62.177.149:1980/play/a01j
+
+#EXTINF:-1,|ESP| GOL
+
+http://149.62.177.149:1980/play/a01r
+
+#EXTINF:-1,|ESP| HOLLYWOOD
+
+http://149.62.177.149:1980/play/a03d
+
+#EXTINF:-1,|ESP| HOLLYWOOD FHD
+
+http://149.62.177.149:1980/play/a02j
+
+#EXTINF:-1,|ESP| LA 1
+
+http://149.62.177.149:1980/play/a03o
+
+#EXTINF:-1,|ESP| LA 1 FHD
+
+http://149.62.177.149:1980/play/a01h
+
+#EXTINF:-1,|ESP| LA SEXTA
+
+http://149.62.177.149:1980/play/a01t
+
+#EXTINF:-1,|ESP| LALIGATVBAR1
+
+http://149.62.177.149:1980/play/a03r
+
+#EXTINF:-1,|ESP| LALIGATVBAR2
+
+http://149.62.177.149:1980/play/a024
+
+#EXTINF:-1,|ESP| M. ACCI©️N FHD
+
+http://149.62.177.149:1980/play/a02g
+
+#EXTINF:-1,|ESP| M. DEPORTES
+
+http://149.62.177.149:1980/play/a02s
+
+#EXTINF:-1,|ESP| M. DEPORTES FHD
+
+http://149.62.177.149:1980/play/a035
+
+#EXTINF:-1,|ESP| M. DEPORTES2
+
+http://149.62.177.149:1980/play/a03e
+
+#EXTINF:-1,|ESP| M. DEPORTES3
+
+http://149.62.177.149:1980/play/a03b
+
+#EXTINF:-1,|ESP| M. DEPORTES4
+
+http://149.62.177.149:1980/play/a03j
+
+#EXTINF:-1,|ESP| M. DEPORTES5
+
+http://149.62.177.149:1980/play/a025
+
+#EXTINF:-1,|ESP| M. DRAMA FHD
+
+http://149.62.177.149:1980/play/a02i
+
+#EXTINF:-1,|ESP| M. ESTRENOS
+
+http://149.62.177.149:1980/play/a03m
+
+#EXTINF:-1,|ESP| M. GOLF
+
+http://149.62.177.149:1980/play/a02m
+
+#EXTINF:-1,|ESP| M. LaLiga
+
+http://149.62.177.149:1980/play/a02y
+
+#EXTINF:-1,|ESP| M. LaLiga 1
+
+http://149.62.177.149:1980/play/a027
+
+#EXTINF:-1,|ESP| M. LaLiga 1 FHD
+
+http://149.62.177.149:1980/play/a01a
+
+#EXTINF:-1,|ESP| M. LaLiga 2
+
+http://149.62.177.149:1980/play/a039
+
+#EXTINF:-1,|ESP| M. LaLiga 3
+
+http://149.62.177.149:1980/play/a028
+
+#EXTINF:-1,|ESP| M. LaLiga 4
+
+http://149.62.177.149:1980/play/a03k
+
+#EXTINF:-1,|ESP| M. LaLiga 8
+
+http://149.62.177.149:1980/play/a01x
+
+#EXTINF:-1,|ESP| M. LaLiga FHD
+
+http://149.62.177.149:1980/play/a02l
+
+#EXTINF:-1,|ESP| M. Oscars
+
+http://149.62.177.149:1980/play/a01l
+
+#EXTINF:-1,|ESP| M. SERIES
+
+http://149.62.177.149:1980/play/a021
+
+#EXTINF:-1,|ESP| M. SERIESMANIA
+
+http://149.62.177.149:1980/play/a03v
+
+#EXTINF:-1,|ESP| M. Tolkien
+
+http://149.62.177.149:1980/play/a07m
+
+#EXTINF:-1,|ESP| M. VHS
+
+http://149.62.177.149:1980/play/a08b
+
+#EXTINF:-1,|ESP| M.COMEDIA FHD
+
+http://149.62.177.149:1980/play/a081
+
+#EXTINF:-1,|ESP| M.CineDoc&Roll
+
+http://149.62.177.149:1980/play/a03h
+
+#EXTINF:-1,|ESP| M.LCAMPEON1
+
+http://149.62.177.149:1980/play/a03f
+
+#EXTINF:-1,|ESP| M.LCAMPEON2
+
+http://149.62.177.149:1980/play/a029
+
+#EXTINF:-1,|ESP| M.LCAMPEON3
+
+http://149.62.177.149:1980/play/a03l
+
+#EXTINF:-1,|ESP| M.LCAMPEON4
+
+http://149.62.177.149:1980/play/a03g
+
+#EXTINF:-1,|ESP| M.LCAMPEON7
+
+http://149.62.177.149:1980/play/a026
+
+#EXTINF:-1,|ESP| MEZZO
+
+http://149.62.177.149:1980/play/a023
+
+#EXTINF:-1,|ESP| MEZZO LIVE FHD
+
+http://149.62.177.149:1980/play/a031
+
+#EXTINF:-1,|ESP| MTV ESPAÃ‘A
+
+http://149.62.177.149:1980/play/a01q
+
+#EXTINF:-1,|ESP| MULTIDEPORTE
+
+http://149.62.177.149:1980/play/a02a
+
+#EXTINF:-1,|ESP| NAT GEO FHD
+
+http://149.62.177.149:1980/play/a036
+
+#EXTINF:-1,|ESP| NAT GEOGRAPH
+
+http://149.62.177.149:1980/play/a02q
+
+#EXTINF:-1,|ESP| NICK JR
+
+http://149.62.177.149:1980/play/a022
+
+#EXTINF:-1,|ESP| NICKELODEON FHD
+
+http://149.62.177.149:1980/play/a030
+
+#EXTINF:-1,|ESP| PLAYBOY TV
+
+http://149.62.177.149:1980/play/a02o
+
+#EXTINF:-1,|ESP| R. MADRID TV
+
+http://149.62.177.149:1980/play/a02z
+
+#EXTINF:-1,|ESP| SUNDANCE TV
+
+http://149.62.177.149:1980/play/a02c
+
+#EXTINF:-1,|ESP| SYFY
+
+http://149.62.177.149:1980/play/a02x
+
+#EXTINF:-1,|ESP| SYFY FHD
+
+http://149.62.177.149:1980/play/a033
+
+#EXTINF:-1,|ESP| TCM
+
+http://149.62.177.149:1980/play/a03s
+
+#EXTINF:-1,|ESP| TELECINCO
+
+http://149.62.177.149:1980/play/a02p
+
+#EXTINF:-1,|ESP| TELEDEPORTE
+
+http://149.62.177.149:1980/play/a03x
+
+#EXTINF:-1,|ESP| TNT
+
+http://149.62.177.149:1980/play/a03w
+
+#EXTINF:-1,|ESP| TOROS FHD
+
+http://149.62.177.149:1980/play/a037
+
+#EXTINF:-1,|ESP| VIAJAR
+
+http://149.62.177.149:1980/play/a03u
