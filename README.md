@@ -1,2 +1,0 @@
-# Canales-HD
-High Definition
